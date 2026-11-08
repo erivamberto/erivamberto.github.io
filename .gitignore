@@ -19,3 +19,4 @@ vendor
 # Python bytecode from bin/ helper scripts
 __pycache__/
 *.pyc
+6060220754965668.xml
